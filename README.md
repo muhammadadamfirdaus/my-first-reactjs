@@ -1,2 +1,2 @@
 # my-first-reactjs
-This is my first time ReactJS app.
+This is my first ReactJS app.
